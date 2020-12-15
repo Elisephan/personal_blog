@@ -89,4 +89,4 @@ You can email at:
 
 ## LICENSE:
 
-MIT License
+MIT License.
