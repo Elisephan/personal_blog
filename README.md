@@ -75,7 +75,7 @@ HTML5/CSS
 
 Bootstrap
 
-Python3.6
+Python3.8
 
 flask
 
