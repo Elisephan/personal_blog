@@ -85,7 +85,7 @@ No known bugs
 
 ## CONTACT INFO:
 
-You can email at:
+You can email at: elisephanius@gmail.com
 
 ## LICENSE:
 
