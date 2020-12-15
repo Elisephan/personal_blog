@@ -89,4 +89,4 @@ You can email at: elisephanius@gmail.com
 
 ## LICENSE:
 
-MIT License
+MIT License.
