@@ -47,7 +47,7 @@ Go to main page |Click home |Go back to homepage
 
 ## Prerequisites
 
-Python3.6
+Python3.8
 
 ## Installation steps
 
