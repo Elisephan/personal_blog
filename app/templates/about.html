@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block styles%} 
+    {{ super() }}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet">
+{% endblock %}
+
+
+{% block content %}
+<div class="bg" style="font-family: 'Zilla Slab', serif; text-align: center;">
+  <div class="jumbotron">
+    <h1>Information about us</h1>
+<p>
+  Welcome to blogs page. We provide a random quote every time the page refreshes. At the same time, we let users register and post their own quotes.
+</p>
+  </div>
+</div>
+{% endblock %}
