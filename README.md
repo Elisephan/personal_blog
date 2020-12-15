@@ -85,7 +85,7 @@ No known bugs
 
 ## CONTACT INFO:
 
-You can email at:ckuradusenge42@gnail.com
+You can email at:
 
 ## LICENSE:
 
