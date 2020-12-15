@@ -51,7 +51,7 @@ Python3.8
 
 ## Installation steps
 
-$ git clone
+$ git clone https://github.com/Elisephan/personal_blog.git/
 
 $ cd Blog_web
 
