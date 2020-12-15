@@ -4,12 +4,11 @@ Blog Website
 
 ## AUTHOR
 
-Claudine Kuradusenge
+Elisephan NTAKIRUTIMANA
 
 ## DESCRIPTION
 
-This is an app to create a personal blogging website where you can create and share your opinions and other users can read and comment on them. Additionally, add a feature that displays random quotes to inspire your users. 
-
+This is an app to create a personal blogging website where you can create and share your opinions and other users can read and comment on them. Additionally, add a feature that displays random quotes to inspire your users.
 
 ## User Stories
 
@@ -27,24 +26,24 @@ A writer can update the blog they posted
 
 ## BDD
 
-Behaviour	         |    Input	                     |           Output
+Behaviour | Input | Output
 
 ---------------------+-------------------------------+-------------------------------
 
-Create an account    | Click Register                |Register a new user
+Create an account | Click Register |Register a new user
 
 ---------------------|-------------------------------|------------------------------
 
-Go to your previous  |Click login                    |Return to your previous account
+Go to your previous |Click login |Return to your previous account
 account
 
 ---------------------|-------------------------------|--------------------------------
 
-See your profile     |Click profile                  |See your bio and profile pic
+See your profile |Click profile |See your bio and profile pic
 
 ---------------------|-------------------------------|-------------------------------
 
-Go to main page      |Click home                     |Go back to homepage
+Go to main page |Click home |Go back to homepage
 
 ## Prerequisites
 
@@ -82,7 +81,7 @@ flask
 
 ## KNOWN BUGS:
 
-No known bugs 
+No known bugs
 
 ## CONTACT INFO:
 
